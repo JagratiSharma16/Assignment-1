@@ -1,0 +1,40 @@
+body{
+    background-color: dimgray;
+}
+.form{
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 40px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    margin-left: 35%;
+    margin-right: 30%;
+    border: 4px solid black;
+    border-radius: 50px;
+    background-color: burlywood;
+
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#state{
+    padding: 7px;
+    background-color: transparent;
+    transform: translateX(20%);
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+input{
+    padding: 7px;
+    background-color: transparent;
+    transform: translateX(20%);
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
